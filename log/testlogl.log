@@ -1,0 +1,221 @@
+2023-03-19 15:43:05,268 [main] INFO CoreCreditV1 - URL is opened
+2023-03-19 15:43:05,584 [main] INFO CoreCreditV1 - Entered Username
+2023-03-19 15:43:05,698 [main] INFO CoreCreditV1 - Entered Password
+2023-03-19 15:43:08,879 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-19 17:04:36,220 [main] INFO CoreCreditV1 - URL is opened
+2023-03-19 17:04:36,317 [main] INFO CoreCreditV1 - Entered Username
+2023-03-19 17:04:36,387 [main] INFO CoreCreditV1 - Entered Password
+2023-03-19 17:04:38,990 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-19 17:27:40,020 [main] INFO CoreCreditV1 - URL is opened
+2023-03-19 17:27:40,175 [main] INFO CoreCreditV1 - Entered Username
+2023-03-19 17:27:40,268 [main] INFO CoreCreditV1 - Entered Password
+2023-03-19 17:27:42,426 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-19 17:37:07,704 [main] INFO CoreCreditV1 - URL is opened
+2023-03-19 17:37:07,826 [main] INFO CoreCreditV1 - Entered Username
+2023-03-19 17:37:07,902 [main] INFO CoreCreditV1 - Entered Password
+2023-03-19 17:37:10,123 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-20 23:10:42,565 [main] INFO CoreCreditV1 - URL is opened
+2023-03-20 23:10:42,826 [main] INFO CoreCreditV1 - Entered Username
+2023-03-20 23:10:43,031 [main] INFO CoreCreditV1 - Entered Password
+2023-03-20 23:10:45,359 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-20 23:13:19,402 [main] INFO CoreCreditV1 - URL is opened
+2023-03-20 23:13:19,959 [main] INFO CoreCreditV1 - Entered Username
+2023-03-20 23:13:20,212 [main] INFO CoreCreditV1 - Entered Password
+2023-03-20 23:13:23,586 [main] INFO CoreCreditV1 - Login test is failed
+2023-03-20 23:34:08,934 [main] INFO CoreCreditV1 - URL is opened
+2023-03-20 23:34:09,312 [main] INFO CoreCreditV1 - Entered Username
+2023-03-20 23:34:09,431 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:24:25,028 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 09:30:39,699 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 09:36:48,461 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 09:36:51,007 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 09:36:51,129 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:36:56,540 [main] INFO CoreCreditV1 - logging passed
+2023-03-21 09:37:03,546 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 09:37:03,642 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:37:10,910 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 09:37:11,043 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:37:18,701 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 09:37:19,051 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:37:25,653 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 09:37:25,751 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 09:37:30,482 [main] INFO CoreCreditV1 - logging passed
+2023-03-21 23:41:50,835 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 23:41:50,946 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:41:51,014 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:41:54,225 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-21 23:42:00,747 [main] INFO CoreCreditV1 - Entered All information
+2023-03-21 23:42:02,291 [main] INFO CoreCreditV1 - Click on submit
+2023-03-21 23:56:16,040 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 23:56:16,154 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:16,216 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:18,278 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-21 23:56:21,940 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 23:56:23,460 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:23,577 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:27,001 [main] INFO CoreCreditV1 - logging passed
+2023-03-21 23:56:32,857 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:33,041 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:39,677 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:39,743 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:45,280 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:45,348 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:50,777 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:56:50,906 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:56:55,282 [main] INFO CoreCreditV1 - logging passed
+2023-03-21 23:57:05,143 [main] INFO CoreCreditV1 - URL is opened
+2023-03-21 23:57:05,225 [main] INFO CoreCreditV1 - Entered Username
+2023-03-21 23:57:05,297 [main] INFO CoreCreditV1 - Entered Password
+2023-03-21 23:57:08,839 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-22 00:08:20,819 [main] INFO CoreCreditV1 - URL is opened
+2023-03-22 00:08:21,396 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:08:21,502 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:08:23,444 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-22 00:08:27,912 [main] INFO CoreCreditV1 - URL is opened
+2023-03-22 00:08:29,912 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:08:30,262 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:08:35,528 [main] INFO CoreCreditV1 - logging passed
+2023-03-22 00:08:43,437 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:08:43,532 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:08:51,040 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:08:51,168 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:08:58,975 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:08:59,078 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:09:07,453 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:09:07,670 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:09:12,941 [main] INFO CoreCreditV1 - logging passed
+2023-03-22 00:09:23,715 [main] INFO CoreCreditV1 - URL is opened
+2023-03-22 00:09:23,899 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:09:24,111 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:09:27,066 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-22 00:09:34,898 [main] INFO CoreCreditV1 - Entered All information
+2023-03-22 00:09:40,417 [main] INFO CoreCreditV1 - Click on submit
+2023-03-22 00:09:42,477 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-22 00:15:51,236 [main] INFO CoreCreditV1 - URL is opened
+2023-03-22 00:15:53,735 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:15:53,861 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:16:02,254 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:16:02,353 [main] INFO CoreCreditV1 - Entered Password
+2023-03-22 00:16:09,680 [main] INFO CoreCreditV1 - Entered Username
+2023-03-22 00:16:09,775 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:02,446 [main] INFO CoreCreditV1 - URL is opened
+2023-03-24 14:56:02,757 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:02,864 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:03,997 [main] INFO CoreCreditV1 - Login test is passed
+2023-03-24 14:56:07,416 [main] INFO CoreCreditV1 - URL is opened
+2023-03-24 14:56:09,798 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:09,934 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:14,403 [main] INFO CoreCreditV1 - logging passed
+2023-03-24 14:56:20,013 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:20,160 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:25,135 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:25,229 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:30,329 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:30,493 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:35,624 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:35,866 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:40,246 [main] INFO CoreCreditV1 - logging passed
+2023-03-24 14:56:49,749 [main] INFO CoreCreditV1 - URL is opened
+2023-03-24 14:56:50,060 [main] INFO CoreCreditV1 - Entered Username
+2023-03-24 14:56:50,315 [main] INFO CoreCreditV1 - Entered Password
+2023-03-24 14:56:53,644 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-24 14:56:57,299 [main] INFO CoreCreditV1 - Entered All information
+2023-03-24 14:56:59,028 [main] INFO CoreCreditV1 - Click on submit
+2023-03-24 14:57:01,051 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-25 13:11:11,427 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:11:12,033 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:11:12,138 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:11:16,076 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:11:25,466 [main] INFO CoreCreditV1 - Entered All information
+2023-03-25 13:11:27,250 [main] INFO CoreCreditV1 - Click on submit
+2023-03-25 13:11:29,323 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-25 13:27:41,870 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:27:42,417 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:27:42,644 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:27:46,662 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:27:56,354 [main] INFO CoreCreditV1 - Entered All information
+2023-03-25 13:27:56,880 [main] INFO CoreCreditV1 - Click on submit
+2023-03-25 13:29:05,281 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:29:05,516 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:29:05,643 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:29:09,729 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:29:16,618 [main] INFO CoreCreditV1 - Entered All information
+2023-03-25 13:29:19,081 [main] INFO CoreCreditV1 - Click on submit
+2023-03-25 13:29:21,135 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-25 13:43:12,452 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:43:12,875 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:43:13,353 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:43:16,549 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:43:27,651 [main] INFO CoreCreditV1 - Entered All information
+2023-03-25 13:43:29,559 [main] INFO CoreCreditV1 - Click on submit
+2023-03-25 13:43:31,638 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-25 13:50:53,267 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:50:53,535 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:50:53,754 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:51:07,641 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:55:50,600 [main] INFO CoreCreditV1 - URL is opened
+2023-03-25 13:55:51,021 [main] INFO CoreCreditV1 - Entered Username
+2023-03-25 13:55:51,269 [main] INFO CoreCreditV1 - Entered Password
+2023-03-25 13:55:55,961 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-25 13:55:59,909 [main] INFO CoreCreditV1 - Entered All information
+2023-03-25 13:56:03,111 [main] INFO CoreCreditV1 - Click on submit
+2023-03-25 13:56:05,201 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-26 17:12:04,406 [main] INFO CoreCreditV1 - URL is opened
+2023-03-26 17:12:04,942 [main] INFO CoreCreditV1 - Entered Username
+2023-03-26 17:12:05,089 [main] INFO CoreCreditV1 - Entered Password
+2023-03-26 17:12:24,926 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-26 17:12:28,366 [main] INFO CoreCreditV1 - Entered All information
+2023-03-26 17:12:31,253 [main] INFO CoreCreditV1 - Click on submit
+2023-03-26 17:12:33,320 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-26 17:13:53,033 [main] INFO CoreCreditV1 - URL is opened
+2023-03-26 17:13:53,567 [main] INFO CoreCreditV1 - Entered Username
+2023-03-26 17:13:53,664 [main] INFO CoreCreditV1 - Entered Password
+2023-03-26 17:14:06,962 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-26 17:22:00,485 [main] INFO CoreCreditV1 - URL is opened
+2023-03-26 17:22:00,837 [main] INFO CoreCreditV1 - Entered Username
+2023-03-26 17:22:01,021 [main] INFO CoreCreditV1 - Entered Password
+2023-03-26 17:22:14,728 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-26 17:23:44,481 [main] INFO CoreCreditV1 - URL is opened
+2023-03-26 17:23:44,790 [main] INFO CoreCreditV1 - Entered Username
+2023-03-26 17:23:44,941 [main] INFO CoreCreditV1 - Entered Password
+2023-03-26 17:23:58,320 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-27 00:08:08,737 [main] INFO CoreCreditV1 - URL is opened
+2023-03-27 00:08:28,477 [main] INFO CoreCreditV1 - URL is opened
+2023-03-27 22:11:13,674 [main] INFO CoreCreditV1 - URL is opened
+2023-03-27 22:11:13,906 [main] INFO CoreCreditV1 - Entered Username
+2023-03-27 22:11:14,018 [main] INFO CoreCreditV1 - Entered Password
+2023-03-27 22:11:18,505 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-27 22:11:21,826 [main] INFO CoreCreditV1 - Entered All information
+2023-03-27 22:11:24,715 [main] INFO CoreCreditV1 - Click on submit
+2023-03-27 22:11:26,762 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-27 23:54:17,716 [main] INFO CoreCreditV1 - URL is opened
+2023-03-27 23:54:18,057 [main] INFO CoreCreditV1 - Entered Username
+2023-03-27 23:54:18,196 [main] INFO CoreCreditV1 - Entered Password
+2023-03-27 23:54:33,092 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-28 00:58:30,779 [main] INFO CoreCreditV1 - URL is opened
+2023-03-28 00:58:30,954 [main] INFO CoreCreditV1 - Entered Username
+2023-03-28 00:58:31,021 [main] INFO CoreCreditV1 - Entered Password
+2023-03-28 00:58:35,994 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-28 00:58:39,631 [main] INFO CoreCreditV1 - Entered All information
+2023-03-28 00:58:43,120 [main] INFO CoreCreditV1 - Click on submit
+2023-03-28 00:58:45,160 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-28 01:13:59,470 [main] INFO CoreCreditV1 - URL is opened
+2023-03-28 01:13:59,576 [main] INFO CoreCreditV1 - Entered Username
+2023-03-28 01:13:59,645 [main] INFO CoreCreditV1 - Entered Password
+2023-03-28 01:14:30,322 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-28 01:14:32,986 [main] INFO CoreCreditV1 - Entered All information
+2023-03-28 01:14:36,984 [main] INFO CoreCreditV1 - Click on submit
+2023-03-28 01:14:39,004 [main] INFO CoreCreditV1 - Testcase passed
+2023-03-29 00:51:06,482 [main] INFO CoreCreditV1 - URL is opened
+2023-03-29 00:51:06,766 [main] INFO CoreCreditV1 - Entered Username
+2023-03-29 00:51:06,992 [main] INFO CoreCreditV1 - Entered Password
+2023-03-29 00:51:12,161 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-29 00:51:16,381 [main] INFO CoreCreditV1 - Entered All information
+2023-03-29 00:51:16,853 [main] INFO CoreCreditV1 - Click on submit
+2023-03-29 00:52:14,336 [main] INFO CoreCreditV1 - URL is opened
+2023-03-29 00:52:14,710 [main] INFO CoreCreditV1 - Entered Username
+2023-03-29 00:52:14,843 [main] INFO CoreCreditV1 - Entered Password
+2023-03-29 00:52:31,728 [main] INFO CoreCreditV1 - Providing Customer Details.
+2023-03-29 00:52:36,006 [main] INFO CoreCreditV1 - Entered All information
+2023-03-29 00:52:38,788 [main] INFO CoreCreditV1 - Click on submit
+2023-03-29 00:52:40,865 [main] INFO CoreCreditV1 - Testcase passed
